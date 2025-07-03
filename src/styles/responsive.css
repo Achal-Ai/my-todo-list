@@ -1,0 +1,26 @@
+/* Responsive tweaks for mobile/tablet */
+@media (max-width: 768px) {
+  .app-container {
+    padding: 1.2rem 0.5rem;
+    max-width: 98vw;
+  }
+  .task-form {
+    flex-direction: column;
+    gap: 0.7rem;
+    align-items: stretch;
+  }
+  .task-list-header {
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: stretch;
+  }
+}
+
+@media (max-width: 480px) {
+  .header h1 {
+    font-size: 1.3rem;
+  }
+  .app-container {
+    padding: 0.5rem 0.1rem;
+  }
+}
