@@ -16,5 +16,5 @@ If you are developing a production application, we recommend using TypeScript wi
 If you like this project or want to collaborate, feel free to connect:
 
 - 📧 Email: [sharmaachal105@gmail.com](mailto:sharmaachal105@gmail.com)
-- 💼 LinkedIn: [Achal Sharma](https://linkedin.com/in/yourusername)
+- 💼 LinkedIn: [Achal Sharma](https://www.linkedin.com/in/achal-sharma-1ab671270)
 - 💻 GitHub: [@Achal-Ai]
