@@ -17,4 +17,4 @@ If you like this project or want to collaborate, feel free to connect:
 
 - 📧 Email: [sharmaachal105@gmail.com](mailto:sharmaachal105@gmail.com)
 - 💼 LinkedIn: [Achal Sharma](https://www.linkedin.com/in/achal-sharma-1ab671270)
-- 💻 GitHub: [@Achal-Ai]
+- 💻 GitHub: [@Achal-Ai](https://github.com/Achal-Ai)
